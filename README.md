@@ -2,6 +2,10 @@
     
 # Donut 🍩 : Document Understanding Transformer
 
+<p>
+<a href="https://console.tiyaro.ai/explore/naver-clova-ix-donut-base-5425219"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a>
+</p>
+
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2111.15664-red)](https://arxiv.org/abs/2111.15664)
 [![Conference](https://img.shields.io/badge/ECCV-2022-blue)](#how-to-cite)
 [![Demo](https://img.shields.io/badge/Demo-Gradio-brightgreen)](#demo)
